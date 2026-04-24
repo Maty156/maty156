@@ -1,46 +1,119 @@
-<!-- Neon header (inline SVG) -->
-<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="90" fill="#0b0f14"/>
-  <text x="30" y="56" font-family="monospace" font-size="34" fill="#39FF14">SYSTEM INITIALIZED</text>
-  <text x="360" y="56" font-family="monospace" font-size="20" fill="#00E5FF">• user: Matyas Abraham</text>
-</svg>
+<h1 align="center">⚡ MATY OS // CYBER INTERFACE</h1>
 
-# <span style="color:#39FF14">Matyas Abraham</span> — **Cybersecurity Student**
-**`>. Building. Learning. Hacking.`**
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="90"/>
+</p>
 
----
-
-<div align="left">
-
-**<span style="color:#00E5FF">SYSTEM</span>** &nbsp;&nbsp; **user:** Matyas Abraham · **role:** Cybersecurity Student · **system:** Arch Linux + Hyprland  
-**location:** Ethiopia · **status:** Active · **uptime:** Always learning
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=Booting+MATY+OS...;Loading+Core+Modules...;Initializing+Cyber+Interface...;Access+Granted+✔" />
+</p>
 
 ---
 
-## ABOUT ME
-Passionate about cybersecurity, Linux, and building tools that make life easier. I love automating tasks, customizing environments, and exploring how systems work under the hood.
+## 🧠 SYSTEM CORE
+
+```bash
+╭──────────────────────────────╮
+│      MATY OS // CORE         │
+├──────────────────────────────┤
+│ User    : Matyas Abraham     │
+│ Role    : Cybersecurity Std  │
+│ OS      : Arch Linux         │
+│ WM      : Hyprland           │
+│ Shell   : zsh                │
+│ Term    : kitty              │
+│ Editor  : nvim               │
+│ Status  : ● ONLINE           │
+╰──────────────────────────────╯
+```
 
 ---
 
-## TECH STACK
-- **Bash** — 90%  
-- **Linux** — 95%  
-- **Python** — 75%  
-- **HTML** — 80%  
-- **CSS** — 75%  
-- **JavaScript** — 60%
+## 📊 SYSTEM METRICS
+
+```bash
+╭──────────────────────────────╮
+│ CPU Usage    ███████░░░ 70%  │
+│ Memory       ██████░░░░ 60%  │
+│ Disk         ████████░░ 80%  │
+│ Focus        ██████████ 100% │
+╰──────────────────────────────╯
+```
 
 ---
 
-## CURRENT FOCUS
-- Building installer scripts  
-- Automating Linux setups  
-- Exploring cybersecurity  
-- Creating minimal & efficient workflows  
-**Goal:** Build, Break, Learn, Repeat.
+## 🚀 ACTIVE PROCESSES
+
+```bash
+[✔] Initializing installer scripts
+[✔] Automating Linux workflows
+[✔] Building minimal environments
+[✔] Studying cybersecurity systems
+```
 
 ---
 
-## SYSTEM STATUS
+## 🛠 SKILL MATRIX
+
+```bash
+Bash        █████████░ 90%
+Linux       ██████████ 95%
+Python      ███████░░░ 70%
+HTML        ████████░░ 80%
+CSS         ███████░░░ 75%
+Networking  ███████░░░ 75%
+Security    ██████░░░░ 65%
+```
+
+---
+
+## 🤖 SYSTEM LOGS
+
+```bash
+[BOOT] MATY OS initialization sequence started...
+[OK] Kernel modules loaded
+[OK] Hyprland environment ready
+[OK] Network connection established
+
+[RUN] Executing user processes...
+[LOG] Building automation scripts...
+[LOG] Optimizing system performance...
+[LOG] Learning advanced security techniques...
+
+[STATUS] ALL SYSTEMS OPERATIONAL ✔
+```
+
+---
+
+## 💻 PROJECT DIRECTORY
+
+```bash
+$ ls /home/maty/projects
+
+masru-hyprland-installer   [ACTIVE]
+masru-terminal-installer   [ACTIVE]
+portfolio                  [DEPLOYED]
+dotfiles                   [CONFIG]
+```
+
+---
+
+## 📡 CONNECTION
+
+```bash
+$ connect --init
+
+Portfolio → https://maty156.github.io/portfolio/
+Email     → matyasabraham7@gmail.com
+GitHub    → @Maty156
+```
+
+---
+
+## ⚡ FINAL STATUS
+
+```bash
+SYSTEM STATE: STABLE
+MODE: LEARNING + BUILDING
+MISSION: CREATE → BREAK → IMPROVE → REPEAT
+```
