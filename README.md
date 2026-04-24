@@ -1,75 +1,119 @@
-<h1 align="center">⚡ MATY OS v1.0 INITIALIZING...</h1>
+<h1 align="center">⚡ MATY OS // SYSTEM INITIALIZED</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=Booting+System...;Loading+Modules...;Access+Granted+✔;Welcome+Matyas+Abraham" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=Booting+Maty+OS...;Loading+Core+Modules...;Arch+Linux+Environment+Ready;Welcome+Matyas+Abraham" />
 </p>
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🧠 SYSTEM INFO
 
 ```bash
-> user: Matyas Abraham
-> role: Cybersecurity Student
-> system: Arch Linux + Hyprland
-> location: Ethiopia
-> status: Active
-> uptime: Always learning
+user@maty:~$ fastfetch
+
+OS: Arch Linux x86_64
+WM: Hyprland
+Shell: zsh
+Terminal: kitty
+Editor: nvim
+Status: Active
+Uptime: Always learning
+Location: Ethiopia
 ```
 
----
+</td>
+<td width="50%">
 
 ## 🧾 ABOUT ME
 
-Passionate about cybersecurity, Linux, and building tools that make life easier.
-I enjoy customizing systems, automating workflows, and exploring how things work under the hood.
+Passionate about cybersecurity, Linux, and building tools that feel fast and minimal.
+
+I enjoy:
+
+* ⚡ Automating systems
+* 🧠 Learning how things work internally
+* 🛠 Building clean Linux setups
+* 🎯 Optimizing performance
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🛠 TECH STACK
+
+```bash
+$ skills --list
+
+Bash        █████████░ 90%
+Linux       ██████████ 95%
+Python      ███████░░░ 70%
+HTML        ████████░░ 80%
+CSS         ███████░░░ 75%
+```
+
+</td>
+<td width="50%">
 
 ## 🚀 CURRENT FOCUS
 
 ```bash
 $ tasks --running
 
-[✔] Building installer scripts  
-[✔] Automating Linux setups  
-[✔] Exploring cybersecurity tools  
-[✔] Designing minimal workflows
+[✔] Installer scripts
+[✔] Linux automation
+[✔] Cybersecurity labs
+[✔] Minimal workflows
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 SYSTEM STATUS
+
+```bash
+$ systemctl status maty
+
+● maty.service - Personal Dev System
+     Loaded: loaded (/usr/bin/maty)
+     Active: active (running)
+     Mode: learning
+     Goal: build → break → learn → repeat
 ```
 
 ---
 
-## 🛠 TECH STACK
-
-<p>
-  <img src="https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=white" />
-</p>
-
----
-
-## 📊 SYSTEM ACTIVITY
+## 📊 ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maty156&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maty156&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maty156&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maty156&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧩 FEATURED PROJECTS
+## 🧩 PROJECTS
 
 ```bash
-> loading projects...
+$ ls projects/
 
-→ masru-hyprland-installer   [✔ ACTIVE]
-→ masru-terminal-installer   [✔ ACTIVE]
-→ portfolio                  [✔ DEPLOYED]
-→ dotfiles                   [✔ CONFIG]
+masru-hyprland-installer   [ACTIVE]
+masru-terminal-installer   [ACTIVE]
+portfolio                  [DEPLOYED]
+dotfiles                   [CONFIG]
 ```
 
 ---
@@ -77,7 +121,7 @@ $ tasks --running
 ## 📡 CONNECT
 
 ```bash
-$ connect --init
+$ connect
 
 Portfolio → https://maty156.github.io/portfolio/
 Email     → matyasabraham7@gmail.com
@@ -86,8 +130,4 @@ GitHub    → @Maty156
 
 ---
 
-## ⚡ SYSTEM MESSAGE
-
-```bash
-> "Build. Break. Learn. Repeat."
-```
+> ⚡ "Consistency beats intensity."
