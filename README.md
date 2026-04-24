@@ -1,133 +1,59 @@
-<h1 align="center">⚡ MATY OS // SYSTEM INITIALIZED</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=Booting+Maty+OS...;Loading+Core+Modules...;Arch+Linux+Environment+Ready;Welcome+Matyas+Abraham" />
-</p>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-## 🧠 SYSTEM INFO
-
-```bash
-user@maty:~$ fastfetch
-
-OS: Arch Linux x86_64
-WM: Hyprland
-Shell: zsh
-Terminal: kitty
-Editor: nvim
-Status: Active
-Uptime: Always learning
-Location: Ethiopia
-```
-
-</td>
-<td width="50%">
-
-## 🧾 ABOUT ME
-
-Passionate about cybersecurity, Linux, and building tools that feel fast and minimal.
-
-I enjoy:
-
-* ⚡ Automating systems
-* 🧠 Learning how things work internally
-* 🛠 Building clean Linux setups
-* 🎯 Optimizing performance
-
-</td>
-</tr>
-</table>
+# SYSTEM INITIALIZED
+**user:** Matyas Abraham  
+**role:** Cybersecurity Student  
+**system:** Arch Linux + Hyprland  
+**location:** Ethiopia  
+**status:** Active  
+**uptime:** Always learning
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-## 🛠 TECH STACK
-
-```bash
-$ skills --list
-
-Bash        █████████░ 90%
-Linux       ██████████ 95%
-Python      ███████░░░ 70%
-HTML        ████████░░ 80%
-CSS         ███████░░░ 75%
-```
-
-</td>
-<td width="50%">
-
-## 🚀 CURRENT FOCUS
-
-```bash
-$ tasks --running
-
-[✔] Installer scripts
-[✔] Linux automation
-[✔] Cybersecurity labs
-[✔] Minimal workflows
-```
-
-</td>
-</tr>
-</table>
+## ABOUT ME
+Passionate about cybersecurity, Linux, and building tools that make life easier. I love automating stuff, customizing environments and exploring how systems work under the hood.
 
 ---
 
-## 💻 SYSTEM STATUS
-
-```bash
-$ systemctl status maty
-
-● maty.service - Personal Dev System
-     Loaded: loaded (/usr/bin/maty)
-     Active: active (running)
-     Mode: learning
-     Goal: build → break → learn → repeat
-```
+## TECH STACK
+- **Bash:** 90%  
+- **Linux:** 95%  
+- **Python:** 75%  
+- **HTML:** 80%  
+- **CSS:** 75%  
+- **JavaScript:** 60%
 
 ---
 
-## 📊 ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maty156&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maty156&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧩 PROJECTS
-
-```bash
-$ ls projects/
-
-masru-hyprland-installer   [ACTIVE]
-masru-terminal-installer   [ACTIVE]
-portfolio                  [DEPLOYED]
-dotfiles                   [CONFIG]
-```
+## CURRENT FOCUS
+- Building installer scripts  
+- Automating Linux setups  
+- Exploring cybersecurity  
+- Creating minimal & efficient workflows  
+**Goal:** Build, Break, Learn, Repeat.
 
 ---
 
-## 📡 CONNECT
-
-```bash
-$ connect
-
-Portfolio → https://maty156.github.io/portfolio/
-Email     → matyasabraham7@gmail.com
-GitHub    → @Maty156
-```
+## SYSTEM STATUS
+- **OS:** Arch Linux x86_64  
+- **WM:** Hyprland  
+- **Shell:** zsh  
+- **Terminal:** kitty  
+- **Uptime:** 2h 37m  
+- **Packages:** 1423 (pacman)  
+- **Editor:** nvim
 
 ---
 
-> ⚡ "Consistency beats intensity."
+## FEATURED PROJECTS
+- **masu-hyprland-installer** — Hyprland installer with Catppuccin. (Shell)  
+- **masu-terminal-installer** — Automatic ZSH + Powerlevel10k installer. (Shell)  
+- **portfolio** — Personal portfolio website. (HTML)  
+- **.config** — My Hyprland and dotfiles. (CSS)
+
+---
+
+## CONNECT WITH ME
+- **GitHub:** @Maty156  
+- **Email:** matyasabraham7@gmail.com  
+- **Portfolio:** https://maty156.github.io/portfolio
+
+> *Consistency is more powerful than intensity.*
