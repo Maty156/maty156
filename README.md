@@ -78,14 +78,6 @@ When I'm not hacking on something, I'm refining configs, studying low-level netw
 
 </div>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maty156&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=11111B&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maty156&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=11111B&title_color=CBA6F7&text_color=CDD6F4)
-
-</div>
-
 ---
 
 ### 🤝 Connect
