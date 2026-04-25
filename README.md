@@ -1,55 +1,57 @@
-#### 👤 Whoami
-
-```bash
-maty@arch:~$ whoami
-```
-
-I am a **Cybersecurity Student** and **Linux enthusiast** based in Ethiopia, focused on systems architecture, networking, and automation.
-
-My goal is to design **reliable, minimal, and efficient tools** that simplify workflows while deepening my understanding of modern security practices and system behavior.
-
-Outside of development, I spend time refining Linux environments, testing configurations, and optimizing for performance and simplicity.
+<div align="center">
+  <img src="https://github.com/Maty156.png" width="140" alt="Matyas Abream">
+  <h1>Hey there, I'm <strong>Matyas Abream</strong> 👋</h1>
+  <p><strong>Cybersecurity Student</strong> & <strong>Linux Systems Enthusiast</strong> based in Ethiopia</p>
+</div>
 
 ---
 
-#### 🧩 Current Work
+### About Me
 
-```bash
-maty@arch:~$ ls projects/
-```
+I'm a passionate **Cybersecurity student** and **Linux enthusiast** from Ethiopia, deeply focused on **systems architecture**, **networking**, and **automation**.
 
-* **[masu-hyprland-installer](https://github.com/Maty156/masu-hyprland-installer)**
-  → Automated Hyprland installer with Catppuccin integration
+My goal is to build **reliable, minimal, and efficient tools** that simplify complex workflows while strengthening modern security practices and system understanding.
 
-* **[masu-terminal-installer](https://github.com/Maty156/masu-terminal-installer)**
-  → ZSH + Powerlevel10k setup for Linux and Termux
-
-* **[portfolio](https://github.com/Maty156/portfolio)**
-  → Personal website built with clean and minimal design
+When I'm not coding, you'll find me fine-tuning Linux environments, optimizing configurations, and exploring performance tweaks for a cleaner, faster system.
 
 ---
 
-#### ⚙ Tech Stack
+### 🛠 Current Projects
 
-| Domain       | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| :----------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Security** | <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=linux&logoColor=white"/>                                                                                                                                                                                                                                                                                                              |
-| **Core**     | <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white"/> |
-| **Systems**  | <img src="https://img.shields.io/badge/Arch-0D1117?style=flat-square&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows&logoColor=white"/>                                                                                                                                                                                                           |
-| **Tools**    | <img src="https://img.shields.io/badge/Neovim-0D1117?style=flat-square&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white"/>                                                                                                                                                                                                                                                                                                                         |
+- **[masu-hyprland-installer](https://github.com/Maty156/masu-hyprland-installer)**  
+  Automated Hyprland installer with beautiful Catppuccin theming
+
+- **[masu-terminal-installer](https://github.com/Maty156/masu-terminal-installer)**  
+  Clean ZSH + Powerlevel10k setup for Linux and Termux
+
+- **[portfolio](https://github.com/Maty156/portfolio)**  
+  Minimal and elegant personal website
 
 ---
 
-#### 📈 Activity Monitor
+### 🧰 Tech Stack
 
-```bash
-maty@arch:~$ metrics --render
-```
+| Domain       | Tools & Technologies                                      |
+|-------------|-----------------------------------------------------------|
+| **Security** | Kali Linux, Wireshark, Nmap                               |
+| **Core**     | Python, Bash, HTML, CSS, JavaScript                       |
+| **Systems**  | Arch Linux, Debian, Windows                               |
+| **Tools**    | Neovim, Git, Tmux                                         |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maty156/Maty156/main/github-metrics.svg" />
-</p>
+---
 
-```bash
-maty@arch:~$ echo "Build. Optimize. Repeat."
-```
+### 📊 Activity & Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maty156&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maty156&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+> **Build. Optimize. Repeat.**
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Maty156?style=social" alt="Followers">
+</div>
