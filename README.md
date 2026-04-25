@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/Maty156.png" width="140" alt="Matyas Abream">
   <h1>Hey there, I'm <strong>Matyas Abream</strong> 👋</h1>
   <p><strong>Cybersecurity Student</strong> & <strong>Linux Systems Enthusiast</strong> based in Ethiopia</p>
 </div>
@@ -7,18 +8,18 @@
 
 ### About Me
 
-I'm a passionate **Cybersecurity student** and **Linux enthusiast** from Ethiopia, deeply focused on **systems architecture**, **networking**, and **automation**.
+I'm a passionate **Cybersecurity student** and **Linux enthusiast** from Ethiopia, with a strong focus on **systems architecture**, **networking**, and **automation**.
 
-My goal is to build **reliable, minimal, and efficient tools** that simplify complex workflows while strengthening modern security practices and system understanding.
+My goal is to design **reliable, minimal, and efficient tools** that simplify workflows while deepening modern security practices and system behavior.
 
-When I'm not coding, you'll find me fine-tuning Linux environments, optimizing configurations, and exploring performance tweaks for a cleaner, faster system.
+Outside of development, I enjoy refining Linux environments, testing configurations, and optimizing for performance and simplicity.
 
 ---
 
 ### 🛠 Current Projects
 
 - **[masu-hyprland-installer](https://github.com/Maty156/masu-hyprland-installer)**  
-  Automated Hyprland installer with beautiful Catppuccin theming
+  Automated Hyprland installer with beautiful Catppuccin integration
 
 - **[masu-terminal-installer](https://github.com/Maty156/masu-terminal-installer)**  
   Clean ZSH + Powerlevel10k setup for Linux and Termux
@@ -32,18 +33,18 @@ When I'm not coding, you'll find me fine-tuning Linux environments, optimizing c
 
 | Domain       | Tools & Technologies                                      |
 |-------------|-----------------------------------------------------------|
-| **Security** | Kali Linux, Wireshark, Nmap                               |
+| **Security** | Kali Linux, Nmap, Wireshark                               |
 | **Core**     | Python, Bash, HTML, CSS, JavaScript                       |
 | **Systems**  | Arch Linux, Debian, Windows                               |
 | **Tools**    | Neovim, Git, Tmux                                         |
 
 ---
 
-### 📊 Activity & Stats
+### 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maty156&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Matyas Abream's GitHub Metrics](https://metrics.lecoq.io/Maty156?template=classic&base.activity=0&base.community=0&base.metadata=0&base.repositories=0&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maty156&layout=compact&theme=tokyonight&hide_border=true)
+*(This dynamically updates with your contributions, languages, activity, and more — powered by [lowlighter/metrics](https://github.com/lowlighter/metrics))*
 
 ---
 
