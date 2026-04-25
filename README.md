@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Maty156.png" width="140" alt="Matyas Abream">
   <h1>Hey there, I'm <strong>Matyas Abream</strong> 👋</h1>
   <p><strong>Cybersecurity Student</strong> & <strong>Linux Systems Enthusiast</strong> based in Ethiopia</p>
 </div>
