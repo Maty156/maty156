@@ -1,8 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]   # Runs daily at midnight
-  workflow_dispatch:                   # Allows manual trigger
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,35 +17,30 @@ jobs:
           user: Maty156
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Template & General
           template: classic
           config_timezone: Africa/Addis_Ababa
           config_display: large
           
-          # Base sections (more complete)
+          # Base sections for clean cards
           base: header, activity, community, repositories, metadata
           
-          # Core plugins
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes          # More accurate language stats
+          plugin_languages_indepth: yes
           
+          # Calendar + Activity
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year   # Shows full year contribution calendar
+          plugin_isocalendar_duration: full-year
           
+          # Achievements & Highlights
           plugin_achievements: yes
-          plugin_achievements_display: detailed    # or "compact" if you prefer smaller
-          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
           
-          plugin_notable: yes                    # Highlights your best contributions
+          plugin_notable: yes
+          plugin_followup: yes
+          plugin_followup_limit: 6
           
-          plugin_followup: yes                   # Shows open issues/PRs you're involved in
-          plugin_followup_limit: 8
-          
-          # Optional but nice for devs
-          plugin_repositories: yes
-          plugin_repositories_featured: masu-hyprland-installer, masu-terminal-installer, portfolio
-          
-          # Output
+          # Output file
           filename: github-metrics.svg
