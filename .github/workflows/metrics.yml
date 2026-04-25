@@ -1,8 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
+  schedule: [{ cron: "0 0 * * *" }]   # Runs daily at midnight
+  workflow_dispatch:                   # Allows manual trigger
 
 permissions:
   contents: write
@@ -11,22 +11,41 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           user: Maty156
           token: ${{ secrets.GITHUB_TOKEN }}
-
+          
+          # Template & General
           template: classic
-          base: header, activity
-
           config_timezone: Africa/Addis_Ababa
           config_display: large
-
+          
+          # Base sections (more complete)
+          base: header, activity, community, repositories, metadata
+          
+          # Core plugins
           plugin_languages: yes
-          plugin_languages_limit: 4
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
-
+          plugin_languages_indepth: yes          # More accurate language stats
+          
           plugin_isocalendar: yes
-
+          plugin_isocalendar_duration: full-year   # Shows full year contribution calendar
+          
+          plugin_achievements: yes
+          plugin_achievements_display: detailed    # or "compact" if you prefer smaller
+          plugin_achievements_threshold: C
+          
+          plugin_notable: yes                    # Highlights your best contributions
+          
+          plugin_followup: yes                   # Shows open issues/PRs you're involved in
+          plugin_followup_limit: 8
+          
+          # Optional but nice for devs
+          plugin_repositories: yes
+          plugin_repositories_featured: masu-hyprland-installer, masu-terminal-installer, portfolio
+          
+          # Output
           filename: github-metrics.svg
