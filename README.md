@@ -44,7 +44,11 @@ maty@arch:~$ ls projects/
 
 ```bash
 maty@arch:~$ metrics --render
-<p align="center"> <img src="https://raw.githubusercontent.com/Maty156/Maty156/main/github-metrics.svg" /> </p> ```
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maty156/Maty156/main/github-metrics.svg" />
+</p>
 
 ```bash
 maty@arch:~$ echo "Build. Optimize. Repeat."
