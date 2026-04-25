@@ -38,8 +38,6 @@ Outside of development, I spend time refining Linux environments, testing config
 
 ![Matyas Abream's GitHub Metrics](https://github.com/Maty156/Maty156/blob/main/github-metrics.svg)
 
-*Updated daily • Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)*
-
 ---
 
 > **Build. Optimize. Repeat.**
