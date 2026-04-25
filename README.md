@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Maty156.png" width="140" alt="Matyas Abream">
   <h1>Hey there, I'm <strong>Matyas Abream</strong> 👋</h1>
   <p><strong>Cybersecurity Student</strong> & <strong>Linux Systems Enthusiast</strong> based in Ethiopia</p>
 </div>
@@ -43,8 +42,6 @@ Outside of development, I enjoy refining Linux environments, testing configurati
 ### 📊 GitHub Metrics
 
 ![Matyas Abream's GitHub Metrics](https://metrics.lecoq.io/Maty156?template=classic&base.activity=0&base.community=0&base.metadata=0&base.repositories=0&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata)
-
-*(This dynamically updates with your contributions, languages, activity, and more — powered by [lowlighter/metrics](https://github.com/lowlighter/metrics))*
 
 ---
 
