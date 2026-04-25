@@ -62,7 +62,7 @@ When I'm not hacking on something, I'm refining configs, studying low-level netw
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Security** | ![BlackArch](https://img.shields.io/badge/BlackArch-4C0519?logo=archlinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4C8C2F?logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white) |
+| **Security** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?logo=kalilinux&logoColor=white) ![BlackArch](https://img.shields.io/badge/BlackArch-4C0519?logo=archlinux&logoColor=white) |
 | **Core** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
 | **Systems** | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?logo=wayland&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white) |
 | **Tools** | ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=white) ![pywal16](https://img.shields.io/badge/pywal16-CBA6F7?logo=linux&logoColor=white) |
