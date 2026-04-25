@@ -43,15 +43,8 @@ maty@arch:~$ ls projects/
 #### 📈 Activity Monitor
 
 ```bash
-maty@arch:~$ stats --live
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maty156&show_icons=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=a9b2c3&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maty156&hide_border=true&background=0D1117&ring=2ecc71&currStreakNum=2ecc71&sideNums=a9b2c3&sideLabels=2ecc71&dates=a9b2c3" />
-</p>
-
----
+maty@arch:~$ metrics --render
+<p align="center"> <img src="https://raw.githubusercontent.com/Maty156/Maty156/main/github-metrics.svg" /> </p> ```
 
 ```bash
 maty@arch:~$ echo "Build. Optimize. Repeat."
