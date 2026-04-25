@@ -6,12 +6,14 @@
 ---
 
 ### About Me
+<blockquote>
 
 I'm a passionate **Cybersecurity student** and **Linux enthusiast** from Ethiopia, focused on **systems architecture**, **networking**, and **automation**.
 
 My goal is to design **reliable, minimal, and efficient tools** that simplify workflows while strengthening modern security practices and system understanding.
 
 Outside of development, I enjoy refining Linux environments, testing configurations, and optimizing for performance and simplicity.
+</blockquote>
 
 ---
 
