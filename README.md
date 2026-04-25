@@ -38,14 +38,4 @@ Outside of development, I enjoy refining Linux environments, testing configurati
 
 ![Matyas Abream's GitHub Metrics](https://github.com/Maty156/Maty156/blob/main/github-metrics.svg)
 
-*Updated daily — powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)*
-
 ---
-
-> **Build. Optimize. Repeat.**
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Maty156?style=social" alt="Followers">
-</div>
