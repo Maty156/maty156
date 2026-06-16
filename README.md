@@ -54,7 +54,7 @@ When I'm not hacking on something, I'm refining configs, studying low-level netw
 | **[masu-hyprland-installer](https://github.com/Maty156/masu-hyprland-installer)** | Automated Hyprland installer — pywal16 color pipeline, waybar theming, swaync, matuwall | ![v3](https://img.shields.io/badge/v2.3-CBA6F7?style=flat-square) |
 | **[masu-cyber-academy](https://github.com/Maty156/masu-cyber-academy)** | Hacker-themed cybersecurity learning platform built with Node.js, Express, and MongoDB | ![Active](https://img.shields.io/badge/active-A6E3A1?style=flat-square) |
 | **[masu-terminal-installer](https://github.com/Maty156/masu-terminal-installer)** | Clean ZSH + Powerlevel10k setup for Linux with Nerd Fonts and safe `.zshrc` handling | ![v8](https://img.shields.io/badge/v7-89DCEB?style=flat-square) |
-| **[portfolio](https://github.com/Maty156/portfolio)** | Terminal-aesthetic personal site with project showcases — deploying on Vercel | ![In Progress](https://img.shields.io/badge/in_progress-FAB387?style=flat-square) |
+| **[portfolio](https://maty156.github.io/)** | Terminal-aesthetic personal site with project showcases — deploying on Vercel | ![In Progress](https://img.shields.io/badge/in_progress-FAB387?style=flat-square) |
 
 ---
 
