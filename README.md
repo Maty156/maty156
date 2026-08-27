@@ -84,7 +84,7 @@ When I'm not hacking on something, I'm refining configs, studying low-level netw
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maty156.github.io%2Fportfolio-CBA6F7?style=for-the-badge&logo=firefox&logoColor=white)](https://maty156.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-matyas2Fportfolio-CBA6F7?style=for-the-badge&logo=firefox&logoColor=white)](https://matyas-chi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Maty156-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maty156)
 
 </div>
